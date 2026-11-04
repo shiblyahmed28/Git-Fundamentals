@@ -1,6 +1,6 @@
 # Git Fundamentals Guide for DevOps Engineers
 # change to check in local. remote and upstream 
-
+--------------------
 > A comprehensive guide covering Git basics to advanced concepts for fresh DevOps engineers.
 
 **Repository**: [md-sarowar-alam/Git-Fundamentals](https://github.com/md-sarowar-alam/Git-Fundamentals)  
